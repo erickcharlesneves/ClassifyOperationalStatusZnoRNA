@@ -291,7 +291,7 @@ Dado o desempenho observado, este sistema pode ser considerado uma solução efi
 
 Podemos ainda expandir futuramente o modelo com outros conjuntos de dados para testar o modelo com mais amostras, representando diferentes condições ambientais e operacionais, para garantir a robustez em cenários variados além da corrente de fuga.
 
-E ainda explorar outras arquiteturas de redes neurais, como redes convolucionais (CNNs) ou recorrentes (RNNs) ou ainda árvores de decisão, que podem capturar padrões temporais de outras maneiras.
+E ainda explorar outras arquiteturas de redes neurais, como redes convolucionais `CNNs` ou recorrentes ``RNNs`` ou ainda árvores de decisão, que podem capturar padrões temporais de outras maneiras.
 
 ## License
 
