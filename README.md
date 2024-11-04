@@ -308,3 +308,5 @@ Se você tiver alguma dúvida sobre, não hesite em entrar em contato comigo no 
 Contributions are always welcomed. Feel free to raise new issues, file new PRs. Consider giving it a star and fork this repo!
 
 If you have any question about this opinionated list, do not hesitate to contact me on Gmail: [erick.cassiano@ee.ufcg.edu.br](mailto:erick.cassiano@ee.ufcg.edu.br) or open an issue on GitHub.
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-charles-neves/)
